@@ -27,8 +27,8 @@
 <hr/>
 <h2>Connect With Me</h2>
 <ul>
-    <li><b>Linkedin:</b> https://www.linkedin.com/in/broderickhywell</li>
-    <li><b>Email:</b> zerothesu@gmail.com</li>
+    <li><b>Linkedin:</b> www.linkedin.com/in/emmerich-clark-76b536335</li>
+    <li><b>Email:</b> ekoalac17@gmail.com</li>
 </ul>
 
 <hr/>
@@ -37,7 +37,7 @@
 <br>
 <div align=center>
   <img <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=EmmerichRD&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
-  <img width=465 src="https://github-readme-stats.vercel.app/api?username=BroderickHywell&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=465 src="https://github-readme-stats.vercel.app/api?username=EmmerichRD&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 <br/><br/>
