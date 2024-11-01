@@ -1,16 +1,47 @@
-## Hi there 👋
+<h3></h3>
+<h2>About Me</h2>
+<span></span>
 
-<!--
-**EmmerichRD/EmmerichRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
+<h2>Technical Skills</h2>
+<ul>
+    <li><b>Languages:</b> Javascript, Python, C++</li>
+    <li><b>Frameworks & Libraries:</b> React, Next.js, Node.js</li>
+    <li><b>Tools & Platforms:</b> Github, Docker, Visual Studio Code</li>
+</ul>
 
-Here are some ideas to get you started:
+<hr/>
+<h2>Key Projects</h2>
+<ul>
+    <li>Diet Tracker(in progress)</li>
+    <li>Emmerich(in progress)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<h2>Professional Goals</h2>
+<ul>
+    <li><b>Work:</b> Get hired at a company for software engineering and be a great asset.</li>
+    <li><b>Continuous Learning:</b> Keep improving my programming skills and learning new ones often.</li>
+</ul>
+
+<hr/>
+<h2>Connect With Me</h2>
+<ul>
+    <li><b>Linkedin:</b> https://www.linkedin.com/in/broderickhywell</li>
+    <li><b>Email:</b> zerothesu@gmail.com</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=EmmerichRD&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+  <img width=465 src="https://github-readme-stats.vercel.app/api?username=BroderickHywell&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
+<br/><br/>
+
+<hr/>
+
+<br/>
